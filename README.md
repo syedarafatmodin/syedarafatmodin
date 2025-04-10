@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Cloud+Engineer;AI+Enthusiast;Generative+AI+Explorer;AWS+Certified" alt="Typing SVG" />
 </p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&count=1)
-
 
 **🤖 Gen AI Engineer | 🧠 AI/ML Researcher | 💻 Open-Source Contributor**  
 
