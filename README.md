@@ -15,6 +15,8 @@
 ### 🛠️ **Tech Stack**  
 `Python` `PyTorch` `TensorFlow` `LangChain` `HuggingFace` `AWS` `Docker`  
 
+https://camo.githubusercontent.com/2f7468f57d40b0fa63beba7ee87ccf9c5baf7d59e4f3247f960b8bab2cc4d9b4/68747470733a2f2f636f756e7465722e6b756265722e73747564696f2f6b7562657277617374616b656e2f6861636b65722f636f756e742e737667
+
 ### 📫 **Let’s Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-arafat-modin-580156120/)  
