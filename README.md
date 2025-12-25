@@ -15,7 +15,8 @@
 ### 🛠️ **Tech Stack**  
 `Python` `PyTorch` `TensorFlow` `LangChain` `HuggingFace` `AWS` `Docker`  
 
-![Hacker Counter](https://counter.kuber.studio/kuberwastaken/hacker/count.svg?github=syedarafatmodin)
+[![Profile Views](https://u8views.com/api/v1/github/profiles/97943581/views/day-week-month-total-count.svg)](https://u8views.com/github/syedarafatmodin)
+
 
 ### 📫 **Let’s Connect!**  
 
