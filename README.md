@@ -15,8 +15,7 @@
 ### 🛠️ **Tech Stack**  
 `Python` `PyTorch` `TensorFlow` `LangChain` `HuggingFace` `AWS` `Docker`  
 
-[![Profile Views](https://u8views.com/api/v1/github/profiles/97943581/views/day-week-month-total-count.svg)](https://u8views.com/github/syedarafatmodin)
-
+![Profile views](https://counter.kuber.studio/syedarafatmodin/glassmorphism/count.svg)
 
 ### 📫 **Let’s Connect!**  
 
