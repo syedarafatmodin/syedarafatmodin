@@ -15,7 +15,7 @@
 ### 🛠️ **Tech Stack**  
 `Python` `PyTorch` `TensorFlow` `LangChain` `HuggingFace` `AWS` `Docker`  
 
-![GitHub Card](https://your-service.com/github-card?username=syedarafatmodin)
+![Hacker Counter](https://counter.kuber.studio/kuberwastaken/hacker/count.svg?github=syedarafatmodin)
 
 ### 📫 **Let’s Connect!**  
 
