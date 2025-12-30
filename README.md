@@ -46,7 +46,5 @@
 
 🌟 **Fun Fact:** I automate boring tasks so I can focus on *actual* AI magic!  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarafatmodin&layout=compact&theme=radical)](https://github.com/syedarafatmodin)
-
 
 
