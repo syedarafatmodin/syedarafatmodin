@@ -52,5 +52,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedarafatmodin/syedarafatmodin/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake Animation](https://github.com/syedarafatmodin/syedarafatmodin/blob/output/github-contribution-grid-snake-dark.svg)
 
