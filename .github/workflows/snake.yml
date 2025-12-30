@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Allows you to manually run the job at any time
   workflow_dispatch:
-  
-  # Run on every push to the master branch
   push:
     branches:
     - master
@@ -19,18 +14,16 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generates a snake game from your contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff0080&color_dots=#161b22,#4a0028,#8a004b,#d10074,#ff0080
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Pushes the generated content to a branch named "output"
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
